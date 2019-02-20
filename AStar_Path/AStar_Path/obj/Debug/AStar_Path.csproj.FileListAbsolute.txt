@@ -1,0 +1,6 @@
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\bin\Debug\AStar_Path.exe.config
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\bin\Debug\AStar_Path.exe
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\bin\Debug\AStar_Path.pdb
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\obj\Debug\AStar_Path.csprojResolveAssemblyReference.cache
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\obj\Debug\AStar_Path.exe
+c:\users\danno\documents\visual studio 2015\Projects\AStar_Path\AStar_Path\obj\Debug\AStar_Path.pdb
